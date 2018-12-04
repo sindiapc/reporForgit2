@@ -1,0 +1,19 @@
+{
+  "name": "git2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindiapc/reporForgit2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sindiapc/reporForgit2/issues"
+  },
+  "homepage": "https://github.com/sindiapc/reporForgit2#readme"
+}
